@@ -13,6 +13,7 @@
     "standard": "^10.0.3"
   },
   "dependencies": {
-    "htmlparser2": "^3.9.2"
+    "htmlparser2": "^3.9.2",
+    "node-telegram-bot-api": "^0.29.0"
   }
 }
